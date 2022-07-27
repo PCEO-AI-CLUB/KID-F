@@ -1,5 +1,4 @@
 # KID-F
-# **WARNING** - The dataset is not released yet. We will release soon.
 
 Korean Idol Dataset - Female : High Quality Korean Female Idol Face Image Dataset with Identity Labels
 
@@ -18,7 +17,7 @@ You can use this dataset for training face super resolution models.
 
 # Download
 You can download dataset from here.
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/folders/15RbdHeLymfKA_Xm96rIrGe4Dt5iCQ75E?usp=sharing)
 
 # Agreement
 - The use of this software is RESTRICTED to **non-commercial** research and educational purposes.
